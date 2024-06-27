@@ -33,3 +33,5 @@ BePresent Config Bot is a terminal-based application designed to help users conf
 ## Usage
    ```bash
    npm run start
+   ```
+   Output JSON will be stored in the project directory as be_present_config.json
