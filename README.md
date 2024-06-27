@@ -20,3 +20,12 @@ BePresent Config Bot is a terminal-based application designed to help users conf
    ```bash
    git clone https://github.com/YOUR_USERNAME/bepresent-config-bot.git
    cd bepresent-config-bot
+2. **Install dependencies**:
+   ```bash
+   npm install
+
+3. **Set up environment variables**:
+   Create a .env file in the root directory of the project.
+   Add your OpenAI API key to the .env file:
+   ```bash
+   OPENAI_API_KEY=your_openai_api_key
