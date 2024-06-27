@@ -6,7 +6,7 @@ BePresent Config Bot is a terminal-based application designed to help users conf
 
 - **Interactive Chat**: Engages users in a friendly, spa-like conversation to gather necessary data.
 - **Custom Schedule Setup**: Automatically configures phone blocking schedules based on user input.
-- **Goal Setting**: Helps users set goals and provides an intensity score based on their desired screen time reduction.
+- **Goal Setting**: Provides an intensity score based on user's desired screen time reduction.
 - **JSON Configuration**: Saves the configuration to a JSON file for easy access and updates.
 
 ## Prerequisites
@@ -29,3 +29,7 @@ BePresent Config Bot is a terminal-based application designed to help users conf
    Add your OpenAI API key to the .env file:
    ```bash
    OPENAI_API_KEY=your_openai_api_key
+
+## Usage
+   ```bash
+   npm run start
