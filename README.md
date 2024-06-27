@@ -1,6 +1,6 @@
 # BePresent Config Bot
 
-BePresent Config Bot is a terminal-based application designed to help users configure the BePresent app to reduce their screen time. The bot interacts with users to understand their phone usage habits and goals, and then creates a personalized blocking schedule and intensity score for the app.
+Bea, a chatbot, interacts with users to understand their phone usage habits and goals, and then creates a personalized blocking schedule and intensity score for the app.
 
 ## Features
 
